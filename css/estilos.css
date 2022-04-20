@@ -1,43 +1,60 @@
-body{
-    background-color: black;
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/924/76/HD-wallpaper-love-rock-music-bands-metal-names-red.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
-table{
+table {
     background-color: #A10007;
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;
 }
 
-td{
-    background-color:#CC0007;
-    
-}
-
-header{
-    background-color: #F51800;
-}
-
-footer{
-    background-color: #F51800 ;
-    display: flex;
-    justify-content:center;
-}
-}
-h2{
+td {
     background-color: #CC0007;
+
 }
 
-main{
+header {
+    background-color: #F51800;
+    text-align: center;
+}
+
+footer {
+    background-color: #F51800;
+    justify-content: center;
+   
+}
+}
+
+h2 {
+    background-color: #CC0007
+}
+
+main {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
-tr{
+tr {
     text-align: center;
     border: 3px solid #A10007;
 }
 
 
-a{
+a {
     color: black;
+}
+
+p {
+    background-color:#F51800 ;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    background-color: #F51800;
 }
